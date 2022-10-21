@@ -1,0 +1,14 @@
+.type__button {
+  min-width: 3rem;
+  height: 1.5rem;
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+  color: aliceblue;
+  border-radius: 0.25rem;
+}
+
+.type__button:hover {
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1) 2s;
+  background-color: cornflowerblue;
+}

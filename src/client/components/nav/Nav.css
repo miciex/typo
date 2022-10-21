@@ -1,0 +1,21 @@
+.nav__wrapper {
+  top: 0;
+  width: 100vw;
+  height: 5rem;
+  background-color: midnightblue;
+  color: azure;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.nav__wrapper a {
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: azure;
+}
+
+.nav__wrapper a:hover {
+  text-decoration: underline;
+}
